@@ -1,0 +1,10 @@
+artifact_location: file:///Users/rokerius/VSCodeProjects/Harbout/Harbour_project-1/mlruns/0/models/m-940b379a372249f2b217e277c0ab8f14/artifacts
+creation_timestamp: 1754033491220
+experiment_id: '0'
+last_updated_timestamp: 1754033494540
+model_id: m-940b379a372249f2b217e277c0ab8f14
+model_type: null
+name: best_model
+source_run_id: d657924d86f4492cbf995627bee1d6f2
+status: 2
+status_message: null

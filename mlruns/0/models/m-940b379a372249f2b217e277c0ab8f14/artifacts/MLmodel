@@ -1,0 +1,22 @@
+artifact_path: file:///Users/rokerius/VSCodeProjects/Harbout/Harbour_project-1/mlruns/0/models/m-940b379a372249f2b217e277c0ab8f14/artifacts
+flavors:
+  catboost:
+    catboost_version: 1.2.8
+    code: null
+    data: model.cb
+    model_type: CatBoostClassifier
+    save_format: cbm
+  python_function:
+    data: model.cb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.catboost
+    python_version: 3.9.6
+mlflow_version: 3.1.4
+model_id: m-940b379a372249f2b217e277c0ab8f14
+model_size_bytes: 689456
+model_uuid: m-940b379a372249f2b217e277c0ab8f14
+prompts: null
+run_id: d657924d86f4492cbf995627bee1d6f2
+utc_time_created: '2025-08-01 07:31:31.235170'

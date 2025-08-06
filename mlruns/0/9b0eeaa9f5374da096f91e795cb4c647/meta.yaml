@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/rokerius/VSCodeProjects/Harbout/Harbour_project-1/mlruns/0/9b0eeaa9f5374da096f91e795cb4c647/artifacts
+end_time: 1754033392137
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b0eeaa9f5374da096f91e795cb4c647
+run_name: learned-robin-400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754033390997
+status: 4
+tags: []
+user_id: rokerius

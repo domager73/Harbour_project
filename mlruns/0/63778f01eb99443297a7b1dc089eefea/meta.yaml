@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/rokerius/VSCodeProjects/Harbout/Harbour_project-1/mlruns/0/63778f01eb99443297a7b1dc089eefea/artifacts
+end_time: 1754033483999
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63778f01eb99443297a7b1dc089eefea
+run_name: angry-flea-508
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754033479919
+status: 4
+tags: []
+user_id: rokerius
